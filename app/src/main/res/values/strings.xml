@@ -2,4 +2,8 @@
     <string name="app_name">App2</string>
     <string name="find">Finde</string>
     <string name="information">Info</string>
+    <string name="new_searcher">Новый поиск</string>
+    <string name="Favourite">Избранное</string>
+    <string name="Help">Справка</string>
+    <string name="toolBarTitle">OLX бесплатно</string>
 </resources>
